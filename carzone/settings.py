@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=pbbkog^&5=snise0frsafikv_x0hmfy$yrrcv^kshye)59n*c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com/', 'carzoneapp.co', 'www.carzoneapp.co']
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
