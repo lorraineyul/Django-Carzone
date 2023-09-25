@@ -6,6 +6,6 @@ A Used Car Selling Business Website
 - Postgres
 - Django REST Framework
 
-## Feature
-- user authentication and authorization
+## Features
+- User authentication and authorization
 - Google and Facebook authentication
