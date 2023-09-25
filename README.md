@@ -9,3 +9,6 @@ A Used Car Selling Business Website
 ## Features
 - User authentication and authorization
 - Google and Facebook authentication
+- Filter for cars
+- Send quries
+- CRUD
